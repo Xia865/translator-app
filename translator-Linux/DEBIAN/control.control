@@ -1,0 +1,9 @@
+Package: translator
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-tk, python3-pip
+Maintainer: Your Name <your.email@example.com>
+Description: Text Translator
+ A simple text translator application written in Python

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Translator
+Comment=Text Translator
+Exec=/usr/bin/translator
+Icon=/usr/share/icons/translator.png
+Terminal=false
+Type=Application
+Categories=Utility;
